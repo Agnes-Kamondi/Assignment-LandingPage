@@ -1,0 +1,311 @@
+#banner{
+ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(images/mountain.jpeg);   
+ background-repeat: no-repeat;
+ background-size: cover;
+ padding: 20px;
+ 
+ 
+}
+#navbar{
+     border: 1px solid;
+     background-color: white;
+     color: black;
+     font-size: 23px;
+     display: flex;
+     gap: 8%;
+     align-items: center;
+     width: 1650px;
+     height: 80px;
+     margin-left: 1.5%;
+     border-radius: 40px;
+     font-weight: 40px;
+     margin-bottom: 10%;
+}
+#home{
+    background-color: rgb(255,148,18);
+    color: white;
+    font-size: 20px;
+    border: rgb(255,148,18);
+    width: 150px;
+    padding: 20px;
+    border-radius: 30px;
+    margin-left: 0.5%;
+}
+#wordsbanner{
+      width: 1300px;
+      height: 600px;
+      color: white;
+      margin-left: 10%;
+      text-align: center;
+      margin-top: 10%;
+}
+#word{
+    font-size: 70px;
+}
+#words{
+    font-size: 40px;
+}
+.arrow{
+    border-radius: 50px;
+    width: 50px;
+    
+}
+#booktrip{
+    width: 300px;
+    background-color:  rgb(255,148,18);
+    color: white;
+    align-items: center;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 30px;
+    align-items: center;
+
+    
+}
+.star{
+    width: 40px;
+}
+.arrows{
+    width: 70px;
+    position: absolute;
+    margin-left: 17.5%;
+}
+#World{
+    border: 1px solid white ;
+    height: 200px;
+    font-size: 23px;
+    text-align: center;
+}
+.places{
+    width: 400px;
+    height: 300px;
+    border-radius: 15px;
+}
+.star{
+    display: flex;
+
+}
+.info{
+    display: flex;
+    gap: 54%;
+    border: 1px solid white;
+}
+#sites{
+    display: flex;
+    gap: 7%;
+    border: 1px solid white;
+    width: 1500px;
+    margin-left: 10%;
+    padding: 20px;
+
+}
+#click{
+   border: 1px solid white;
+   text-align: center;
+   padding: 30px;
+}
+.button{
+    width: 100px;
+    height: 100px;
+    border-style: dashed ;
+    border-radius: 100px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: #FFFFFF;
+}
+.button1{
+    width: 100px;
+    height: 100px;
+    border-style: dashed;
+    border-radius: 100px;
+    border-bottom: none;
+    border-left: none;
+    border-right: none; 
+    background-color: #FFFFFF;
+}
+#features{
+    display: flex;
+   
+
+}
+#uniquefeatures{
+    display: flex;
+    gap: 10%;
+    font-size: 18px;
+    border: 1px solid white;
+    width: 1600px;
+    margin-left: 10%;
+    padding: 30px;
+}
+#adventures{
+    font-size: 30px;
+    text-align: center;
+    border: 1px solid white;
+}
+.cities{
+    padding: 15px;
+    width: 150px;
+    border-radius: 30px;
+    font-size: 20px;
+    border: 1px solid grey;
+}
+.city{
+    padding: 15px;
+    width: 140px;
+    border-radius: 30px;
+    border: 1px solid rgb(255,148,18);
+    color: rgb(255,148,18); 
+}
+#cities{
+    display: flex;
+    gap: 3%;
+    border: 1px solid white;
+    padding: 20px;
+    width: fit-content;
+    margin-left: 25%;
+}
+.starcity{
+     width: 15px;
+}
+.starbutton{
+    width: 50px;
+    border: 1px solid white;
+
+}
+#description{
+    display: flex;
+}
+#city{
+    width: 450px;
+    height: 270px;
+    border-radius: 10px;
+}
+#maincity{
+    width: 400px;
+    border-radius: 10px;
+}
+#description{
+    display: flex;
+    gap: 63%;
+    width: 400px;
+}
+#citie{
+    width: 350px;
+    height: 270px;
+    border-radius: 10px;
+}
+#descriptions{
+    display: flex;
+    gap: 59%;
+}
+#italy{
+    display: flex;
+    gap: 1%;
+    border: 1px solid white;
+    width: fit-content;
+    margin-left: 16%;
+    width: 1270px;
+}
+#descriptionz{
+    display: flex;
+    gap: 60%;
+}
+#client{
+    font-size: 30px;
+}
+#clients{
+    display: flex;
+    align-items: center;
+    gap: 50%;
+    border: 1px solid white;
+    width: 1800px;
+    margin-left: 12%;
+}
+.man{
+    width: 50px;
+    height: 60px;
+}
+#reviews{
+    display: flex;
+    padding: 20px;
+    gap: 13%;
+    border: 1px solid white;
+    width: 1300px;
+    margin-left: 18%;
+}
+.clientplace{
+    padding-top: 50px;
+}
+#blog{
+    text-align: center;
+    font-size: 23px;
+}
+#florence{
+    width: 700px;
+    height: 520px;
+    background-image: url(images/mountain2.jpg);
+    background-repeat: no-repeat;background-size: cover;
+    text-align: center ;
+    color: white;
+    border-radius: 20px;
+}
+
+#details{
+    display: flex;
+    gap: 10%;
+}
+#exploringflorence{
+    display: flex;
+    gap: 5%;
+    border: 1px solid white;
+    width: 1200px;
+    margin-left: 15%;
+
+}
+#question{
+    width: 1600px;
+    background-color: rgb(255,148,18);
+    color : white;
+    height: 350px;
+    font-size: 30px;
+    margin-top: 20%;
+    margin-left: 6%;
+}
+#fill{
+    font-size: 30px;
+    border: 1px solid white;
+    width: 500px;
+    padding: 20px;
+    position: absolute;
+    margin-bottom: 10%;
+    color: black;
+    margin-left:60%;
+    top: 456%;
+    background-color: white;
+
+}
+#submit{
+    width: 250px;
+    background-color: rgb(255,148,18);
+    border:  rgb(255,148,18);
+    color: white;
+    border-radius: 30px;
+    padding: 7px;
+
+}
+#last{
+    background-image: url(images/background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.arrowz{
+    width: 40px;
+}
+#footerword{
+    display: flex;
+    gap: 10%;
+}
+
+
+
